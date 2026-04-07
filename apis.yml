@@ -1,7 +1,12 @@
 aid: berry-global
-url: https://raw.githubusercontent.com/api-evangelist/berry-global/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/berry-global/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.berry-global.com
+description: >-
+  Berry Global is a leading global manufacturer and marketer of plastic packaging
+  products, nonwoven specialty materials, and engineered materials for consumer and
+  industrial end markets.
