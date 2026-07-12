@@ -20,6 +20,8 @@ description: >-
   engineered materials.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/berry-global-domain-security.yml
   - type: Website
     url: https://www.berryglobal.com
   - type: Portal
